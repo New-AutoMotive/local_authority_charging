@@ -1,6 +1,6 @@
 # local_authority_charging
 This repo currently has two branches:
 /main, and 
-/main/data.
+/data.
 
-Save data into /main/data
+Save data into /data
