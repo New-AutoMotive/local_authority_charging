@@ -1,0 +1,6 @@
+jupyter
+requests
+pandas
+pandas-ods-reader
+matplotlib
+pathlib
