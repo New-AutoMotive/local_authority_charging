@@ -4,3 +4,4 @@ pandas
 pandas-ods-reader
 matplotlib
 pathlib
+json
