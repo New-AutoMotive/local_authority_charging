@@ -4,3 +4,5 @@ pandas
 pandas-ods-reader
 matplotlib
 pathlib
+odf
+zipfile
