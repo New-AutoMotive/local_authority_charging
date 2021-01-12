@@ -6,3 +6,5 @@ matplotlib
 pathlib
 odfpy
 zipfile
+xlrd
+openpyxl
