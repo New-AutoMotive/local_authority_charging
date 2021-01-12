@@ -25,7 +25,12 @@ To install all the required packages, make sure the `environment_name_you_like` 
 \
 Then, install the packages by running\
 \
-`pip install -r requirements.txt`
+`pip install -r requirements.txt`\
+\
+You will require ArcGIS for Python before processing the notebooks. To install this, run\
+\
+`conda install -c esri arcgis=1.8.3`\
+\
 
 ## Jupyter Notebook 
 To set the `environment_name_you_like` environment on your Jupyter Notebook, install `ipykernel` by typing in the Anaconda prompt\
