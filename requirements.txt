@@ -5,3 +5,5 @@ pandas-ods-reader
 matplotlib
 pathlib
 json
+openpyxl
+folium
