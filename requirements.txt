@@ -10,3 +10,8 @@ xlrd
 openpyxl
 folium
 seaborn
+sklearn
+tqdm
+geopandas
+json
+shapely
