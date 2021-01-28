@@ -2,5 +2,7 @@
 /.ipynb_checkpoints/
 Untitled.ipynb
 Postcode_processing.ipynb
+EV Chargers.ipynb
 *.html
 *.png
+*.log
