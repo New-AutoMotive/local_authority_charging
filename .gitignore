@@ -1,8 +1,13 @@
 /Data/
 /.ipynb_checkpoints/
+/GifMap/
+Modules.py
+/__pycache__/
 Untitled.ipynb
 Postcode_processing.ipynb
 EV Chargers.ipynb
+GIF and bar chart race.ipynb
 *.html
 *.png
 *.log
+*.gif

@@ -1,0 +1,17 @@
+name: local_authority_charging
+dependencies:
+    - python=3.8.*
+    - jupyter
+    - requests
+    - pandas
+    - matplotlib
+    - pathlib
+    - xlrd
+    - openpyxl
+    - seaborn
+    - tqdm
+    - geopandas
+    - shapely
+    - pip
+    - numpy
+    - ipykernel
